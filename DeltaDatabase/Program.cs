@@ -10,6 +10,7 @@ namespace DeltaDatabase
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Git Code Source");
         }
     }
 }
